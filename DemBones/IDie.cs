@@ -1,4 +1,4 @@
-namespace Floatingman.Geographic.Utility.Randomizer
+namespace DemBones.Randomizer
 {
 	public interface IDie
 	{

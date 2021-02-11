@@ -1,4 +1,4 @@
-namespace Floatingman.Geographic.Utility.Randomizer
+namespace DemBones.Randomizer
 {
 	using System.Collections.Generic;
 	using System.Linq;
